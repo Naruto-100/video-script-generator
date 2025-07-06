@@ -8,3 +8,4 @@ matplotlib==3.10.3
 openai==1.93.0
 pandas==2.3.0
 streamlit==1.46.1
+wikipedia==1.4.0
